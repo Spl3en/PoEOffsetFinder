@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1365245307 source:c:\users\spl3en\desktop\c\win32tools\win32tools.c
+	"Win32Tools.h"
+
+1365245583 c:\users\spl3en\desktop\c\win32tools\win32tools.h
+	<stdlib.h>
+	<windows.h>
+	<tlhelp32.h>
+	<time.h>
+	<psapi.h>
+	"../Ztring/Ztring.h"
+
+1364107693 c:\users\spl3en\desktop\c\ztring\ztring.h
+	<stdarg.h>
+	<string.h>
+	"../BbQueue/BbQueue.h"
+
+1364392713 c:\users\spl3en\desktop\c\bbqueue\bbqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1363625993 source:c:\users\spl3en\desktop\c\bbqueue\bbqueue.c
+	"BbQueue.h"
+
+1365142147 source:c:\users\spl3en\desktop\c\poeoffsetfinder\main.c
+	"../Win32Tools/Win32Tools.h"
+	"../MemProc/MemProc.h"
+	<conio.h>
+
+1364163867 source:c:\users\spl3en\desktop\c\ztring\ztring.c
+	"Ztring.h"
+
+1364106421 source:c:\users\spl3en\desktop\c\memproc\memchunk.c
+	"MemChunk.h"
+
+1362708488 c:\users\spl3en\desktop\c\memproc\memchunk.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	"../BbQueue/BbQueue.h"
+	"../Win32Tools/Win32Tools.h"
+
+1365244557 source:c:\users\spl3en\desktop\c\memproc\memproc.c
+	"MemProc.h"
+
+1364728786 c:\users\spl3en\desktop\c\memproc\memproc.h
+	<stdlib.h>
+	"MemChunk.h"
+	"../BbQueue/BbQueue.h"
+	"../Win32Tools/Win32Tools.h"
+
+1364120236 source:c:\users\spl3en\desktop\c\poeoffsetfinder\icon.rc
+
+1364116636 source:c:\users\spl3en\documents\github\poeoffsetfinder\icon.rc
+
+1373573744 source:c:\users\spl3en\documents\github\poeoffsetfinder\memproc\memchunk.c
+	"MemChunk.h"
+
+1370381357 c:\users\spl3en\documents\github\poeoffsetfinder\memproc\memchunk.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	"../BbQueue/BbQueue.h"
+	"../Win32Tools/Win32Tools.h"
+
+1372101100 c:\users\spl3en\documents\github\poeoffsetfinder\bbqueue\bbqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1380919547 c:\users\spl3en\documents\github\poeoffsetfinder\win32tools\win32tools.h
+	<stdlib.h>
+	<windows.h>
+	<tlhelp32.h>
+	<time.h>
+	<psapi.h>
+	<wincon.h>
+	"../Ztring/Ztring.h"
+
+1380562478 c:\users\spl3en\documents\github\poeoffsetfinder\ztring\ztring.h
+	<stdarg.h>
+	<string.h>
+	"../BbQueue/BbQueue.h"
+
+1380658863 source:c:\users\spl3en\documents\github\poeoffsetfinder\memproc\memproc.c
+	"MemProc.h"
+
+1378316511 c:\users\spl3en\documents\github\poeoffsetfinder\memproc\memproc.h
+	<stdlib.h>
+	"MemChunk.h"
+	"../BbQueue/BbQueue.h"
+	"../Win32Tools/Win32Tools.h"
+
+1380563484 source:c:\users\spl3en\documents\github\poeoffsetfinder\win32tools\win32tools.c
+	"Win32Tools.h"
+
+1380566523 source:c:\users\spl3en\documents\github\poeoffsetfinder\ztring\ztring.c
+	"Ztring.h"
+
+1384379896 source:c:\users\spl3en\documents\github\poeoffsetfinder\main.c
+	"./Win32Tools/Win32Tools.h"
+	"./MemProc/MemProc.h"
+	<conio.h>
+
+1370381357 source:c:\users\spl3en\documents\github\poeoffsetfinder\bbqueue\bbqueue.c
+	"BbQueue.h"
+
