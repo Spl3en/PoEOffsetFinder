@@ -5,6 +5,7 @@
 		SKU (www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/397918-source-basic-item-alerter.html)
 	Thanks to
 		vitek - testing
+		Swisstrade - maintenance
 */
 
 #include "./Win32Tools/Win32Tools.h"
