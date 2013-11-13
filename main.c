@@ -93,7 +93,7 @@ int get_recv_breakpoints (int *bp0, int *bp1, int *bp2, int *baseaddr, char *cli
 	int bpf = memblock->addr + (sizeof(recv_call) - sizeof("\x50\x51\xFF\x15\xB0\x89\x6C\x00")); // position = push eax ; ║Arg2
 	*bp1 = bpf - *baseaddr;
 	*bp0 = bpf + 0x08 - *baseaddr;
-	*bp2 = bpf + 0x4E - *baseaddr;
+	*bp2 = bpf + 0x4A - *baseaddr;
 
 	if (pydbg_filename == NULL)
 		// Don't write anything

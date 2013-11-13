@@ -32,31 +32,38 @@
 		<Linker>
 			<Add library="psapi" />
 		</Linker>
-		<Unit filename="..\BbQueue\BbQueue.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="..\BbQueue\BbQueue.h" />
-		<Unit filename="..\MemProc\MemChunk.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="..\MemProc\MemChunk.h" />
-		<Unit filename="..\MemProc\MemProc.c">
+		<Unit filename="..\MemProc\MemProc.h" />
+		<Unit filename="BbQueue\BbQueue.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="..\MemProc\MemProc.h" />
+		<Unit filename="BbQueue\BbQueue.h" />
+		<Unit filename="MemBuffer\MemBuffer.h" />
+		<Unit filename="MemPos\MemPos.h" />
+		<Unit filename="MemProc\MemChunk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MemProc\MemChunk.h" />
+		<Unit filename="MemProc\MemProc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MemProc\MemProc.h" />
+		<Unit filename="Win32Tools\Win32Tools.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Win32Tools\Win32Tools.h" />
+		<Unit filename="Ztring\Ztring.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Ztring\Ztring.h" />
 		<Unit filename="icon.rc">
 			<Option compilerVar="WINDRES" />
 		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="..\Win32Tools\Win32Tools.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="..\Win32Tools\Win32Tools.h" />
-		<Unit filename="..\Ztring\Ztring.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="..\Ztring\Ztring.h" />
 		<Extensions>
 			<code_completion />
